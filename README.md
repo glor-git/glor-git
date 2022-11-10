@@ -1,4 +1,5 @@
 #### Introduction
+Developer who love research, Glor Shin
 - It is oriented towards writing reusable code.
 - We are thinking about increasing user convenience and resolving inconvenience.
 - I love to experience, learn and share with my colleagues.
