@@ -1,4 +1,4 @@
-#### Introduction
+### Introduction
 Developer who love research, Glor Shin
 - It is oriented towards writing reusable code.
 - We are thinking about increasing user convenience and resolving inconvenience.
@@ -8,8 +8,8 @@ Developer who love research, Glor Shin
 - By organizing error messages, debugging time is shortened when the same error occurs.
 - I think it's important to study the theory and understand how it works.
 
-#### Skill
+### Skill
 `HTML` `CSS` `SASS` `Javascript` `Styled` `Component` `React` `Next` `Redux` `Recoil` `Sentry` `Vercel`
 
-#### Link
+### Link
 [Resume](https://youngkwnag.notion.site/6ff59ef05099400bae9ae332d00ca603) [Protfolio](#)
