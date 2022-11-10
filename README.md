@@ -1,5 +1,5 @@
 ### Introduction
-Developer who love research, Glor Shin
+#### Developer who love research, Glor Shin
 - It is oriented towards writing reusable code.
 - We are thinking about increasing user convenience and resolving inconvenience.
 - I love to experience, learn and share with my colleagues.
@@ -12,4 +12,5 @@ Developer who love research, Glor Shin
 `HTML` `CSS` `SASS` `Javascript` `Styled` `Component` `React` `Next` `Redux` `Recoil` `Sentry` `Vercel`
 
 ### Link
-[Resume](https://youngkwnag.notion.site/6ff59ef05099400bae9ae332d00ca603) [Protfolio](#)
+#### [Resume](https://youngkwnag.notion.site/6ff59ef05099400bae9ae332d00ca603)
+#### [Protfolio](#)(Getting ready) 
