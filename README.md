@@ -13,4 +13,5 @@
 
 ### Link
 #### [Resume](https://youngkwnag.notion.site/6ff59ef05099400bae9ae332d00ca603)
-#### [Protfolio](#)(Getting ready) 
+#### [Side Project](https://youngkwnag.notion.site/Side-Project-6b16a115d19a4657befe462e15ebc881)
+#### [Develop Tips](https://youngkwnag.notion.site/Develop-Tips-8d5627f800e94ce59d9c659009c2f363)
