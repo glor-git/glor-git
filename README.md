@@ -13,5 +13,5 @@
 `HTML` `CSS` `SASS` `Javascript` `Styled` `Component` `React` `Next` `Redux` `Recoil` `Sentry` `Vercel`
 
 ### Link
-#### [Side Projects](https://youngkwnag.notion.site/Side-Project-6b16a115d19a4657befe462e15ebc881)
+#### [Side Projects](https://youngkwnag.notion.site/55da85b8135641f886aaef9e46ec7b1f?v=917f641ef3e548f3bdd0ea10dc41821e)
 #### [Develop Records](https://youngkwnag.notion.site/14e881cf19654b17a05e563cf2a5dc54?v=7a86b9bbd7f448529de28d021381588f)
